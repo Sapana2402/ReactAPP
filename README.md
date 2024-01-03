@@ -1,2 +1,3 @@
 # ReactAPP
-React app which used Redux-toolkit concept
+- Check app in master branch
+- React app which used the Redux-toolkit concept
